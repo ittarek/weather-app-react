@@ -25,6 +25,7 @@ The project is only one part:
 
 
 ```bash
+## use this guidline
 #### Easy to use
 - # Clone this repository
 - $ git clone https://github.com/ittarek/weather-app-react.git

@@ -23,21 +23,21 @@ The project is only one part:
  Frontend (this repo)
 
 
-## use this guidline
+## Use this guidline
 ```bash
 
 #### Easy to use
-- # Clone this repository
-- $ git clone https://github.com/ittarek/weather-app-react.git
+ # Clone this repository
+ $ git clone https://github.com/ittarek/weather-app-react.git
 
-- # Access the project folder in your terminal
-- $ cd weather-app-react
+ # Access the project folder in your terminal
+ $ cd weather-app-react
 
-- # Install the dependencies
-- $ yarn
+ # Install the dependencies
+ $ yarn
 
-- # Run the application in development mode
-- $ yarn start
+ # Run the application in development mode
+ $ yarn start
 
 - # The application will open on the port: 5179 or other - go to http://localhost:5179
 ```

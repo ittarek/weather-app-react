@@ -23,9 +23,9 @@ The project is only one part:
  Frontend (this repo)
 
 
-
-```bash
 ## use this guidline
+```bash
+
 #### Easy to use
 - # Clone this repository
 - $ git clone https://github.com/ittarek/weather-app-react.git

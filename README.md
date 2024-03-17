@@ -20,12 +20,12 @@ PROJECT - Is a way to help  see your current weather data in React using a openw
 The project is only one part:
 
 
-2. Frontend (this repo)
+ Frontend (this repo)
 
 
 
 ```bash
-
+#### Easy to use
 - # Clone this repository
 - $ git clone https://github.com/ittarek/weather-app-react.git
 

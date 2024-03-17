@@ -34,10 +34,13 @@ The project is only one part:
  $ cd weather-app-react
 
  # Install the dependencies
- $ yarn
+ $ npm install
+
+ # Open whit VsCode
+ $ code .
 
  # Run the application in development mode
- $ yarn start
+ $ npm run dev
 
 - # The application will open on the port: 5179 or other - go to http://localhost:5179
 ```
